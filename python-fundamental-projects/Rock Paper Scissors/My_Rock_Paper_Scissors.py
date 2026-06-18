@@ -1,3 +1,21 @@
+# Rock Paper Scissors
+#
+# A simple command-line implementation of the classic
+# Rock, Paper, Scissors game.
+#
+# Rules:
+# - Rock beats Scissors.
+# - Scissors beats Paper.
+# - Paper beats Rock.
+# - Matching choices result in a tie.
+#
+# This project was built to practice:
+# - Lists
+# - Conditionals
+# - Random number generation
+# - User input
+# - Game logic
+
 import random
 
 rock = '''
@@ -27,32 +45,28 @@ scissors = '''
 ---.__(___)
 '''
 
-options = [rock,paper,scissors]
+
+# Store the ASCII art options in a list for easy access
+options = [rock, paper, scissors]
 
 user = int(input("What do you choose? Type 0 for Rock, 1 for Paper and 2 for Scissors: \n"))
 
-if user >=1 and user <= 3:
+# Validate user input before starting the game
+if user >= 0 and user <= 2:
 
-    computer = random.randint(0,2)
+    # Generate the computer's choice randomly
+    computer = random.randint(0, 2)
 
     print(f"You chose {options[user]}")
-
     print(f"Computer chose {options[computer]}")
 
-    if user == 0 and computer == 1 or user == 1 and computer == 3 or user == 3 and computer == 1:
+    # Determine the winner based on the game rules
+    if user == 0 and computer == 1 or user == 1 and computer == 2 or user == 2 and computer == 0:
         print("You Lose")
     elif user == computer:
         print("Its a Tie")
     else:
         print("You Win")
 
-
-
 else:
     print("Invalid command inserted")
-
-
-
-
-
-
