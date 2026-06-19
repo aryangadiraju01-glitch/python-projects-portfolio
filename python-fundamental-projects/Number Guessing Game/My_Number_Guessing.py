@@ -43,7 +43,12 @@ def play_game():
 
         user_guess = int(input("Make a guess: "))
 
-        if user_guess > right_number:
+        if user_guess > 100 or user_guess < 1:
+            print("Please enter a number between 1 and 100.")
+            return False
+
+
+        elif user_guess > right_number:
             print("Too High")
             return False
 
