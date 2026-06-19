@@ -1,6 +1,5 @@
 # Number Guessing Game
 #
-# Project from Angela Yu's 100 Days of Code course.
 #
 # What I learned:
 # - Breaking a program into functions
