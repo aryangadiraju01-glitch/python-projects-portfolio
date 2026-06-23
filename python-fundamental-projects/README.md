@@ -6,7 +6,7 @@
 
 
 
-**This collection is an assortment of projects I worked on throughout my Python fundamentals course.**
+**This collection is an assortment of projects I worked on throughout learning my Python fundamentals**
 
 
 
