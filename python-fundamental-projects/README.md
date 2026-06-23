@@ -188,7 +188,7 @@
 
 
 
-**- Object-Oriented Programming (OOP)**
+**- Object-Oriented Programming (OOP), Graphical User Interfaces (GUI)**
 
 AND
 
