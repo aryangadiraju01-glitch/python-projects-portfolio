@@ -190,13 +190,7 @@
 
 **- Object-Oriented Programming (OOP)**
 
-**- Data Structures and Algorithms**
-
-**- Larger Multi-File Applications**
-
-**- Software Design Principles**
-
-**- Version Control and Team-Based Development**
+AND
 
 **- AI and Machine Learning Projects**
 
