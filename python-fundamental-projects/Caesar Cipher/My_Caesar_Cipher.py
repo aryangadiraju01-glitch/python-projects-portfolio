@@ -45,7 +45,7 @@ def caesar(original_text, shift_amount, encode_or_decode):
             else:
                 encrypted_word += char
 
-        print(f"Here is the encode result {encrypted_word}")
+        print(f"Here is the encoded result {encrypted_word}")
 
     elif encode_or_decode == "decode":
         decrypted_word = ""
