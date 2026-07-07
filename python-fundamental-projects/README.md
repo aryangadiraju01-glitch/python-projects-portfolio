@@ -1,196 +1,104 @@
-**# Python Fundamentals Portfolio**
+# Python Fundamentals Portfolio
 
+## Overview
 
+This repository contains a collection of projects I completed while learning Python. Each project was built to strengthen my understanding of programming fundamentals and problem-solving, rather than to serve as production-ready software.
 
-**## Overview**
+Through these projects, I developed the ability to:
 
+- Write clean and well-structured Python code
+- Use variables, loops, conditionals, and functions effectively
+- Work with lists, dictionaries, and nested data structures
+- Design modular programs by breaking problems into smaller components
+- Manage user interaction and program flow
+- Debug, test, and improve existing code
+- Read and apply documentation
+- Build complete command-line applications from scratch
+- Apply the fundamentals of Object-Oriented Programming
 
+---
 
-**This collection is an assortment of projects I worked on throughout learning my Python fundamentals**
+## Projects
 
+### Number Guessing Game
 
+Players have a limited number of attempts to guess a randomly generated number.
 
-**I built these as learning tools to gain a strong grasp of fundamental programming and problem-solving concepts, rather than producing commercial-grade applications.**
+**Concepts Covered:** Functions, loops, conditional logic, random number generation, user input validation.
 
+---
 
+### Hangman
 
-**Through the completion of these tasks, I honed my ability to:**
+A command-line implementation of the classic Hangman game.
 
+**Concepts Covered:** Lists, loops, conditional statements, string manipulation, game state management.
 
+---
 
-**- Write well-structured Python code**
+### Caesar Cipher
 
-**- Utilize variables, loops, conditionals, and functions**
+Encrypts and decrypts messages using a customizable shift value.
 
-**- Work with lists, dictionaries, and nested data structures**
+**Concepts Covered:** String processing, loops, modular arithmetic, user input handling.
 
-**- Manage user interaction and program flow**
+---
 
-**- Break complex problems into smaller components**
+### Secret Auction
 
-**- Debug and improve existing code**
+Simulates a blind auction where multiple participants submit bids.
 
-**- Read and utilize documentation**
+**Concepts Covered:** Dictionaries, loops, comparison logic, data storage.
 
-**- Transform ideas into working programs**
+---
 
+### Blackjack
 
+A simplified version of Blackjack played against the computer.
 
-**---**
+**Concepts Covered:** Functions, lists, game logic, conditional decision-making.
 
+---
 
+### Higher or Lower
 
-**## Projects**
+Players guess which of two social media accounts has more followers.
 
+**Concepts Covered:** Dictionaries, random selection, loops, score tracking, user input validation.
 
+---
 
-**### Number Guessing Game**
+### Coffee Machine
 
+Simulates a coffee machine that manages inventory, processes payments, and prepares customer orders.
 
+**Concepts Covered:** Functions, dictionaries, state management, resource tracking, transaction processing.
 
-**Players have a specified number of attempts to guess a computer-generated random number.**
+---
 
+### QuizBrain
 
+An object-oriented quiz application that presents True/False questions, tracks progress, and calculates the user's score.
 
-**\*\*Concepts Covered:\*\* Functions, looping, conditional logic, random number generation, user input validation.**
+**Concepts Covered:** Classes, objects, constructors, encapsulation, object interaction, lists, program flow.
 
+---
 
+## Learning Journey
 
-**---**
+These projects document my progression from learning basic Python syntax to building complete command-line applications and applying object-oriented programming principles.
 
+Each project introduced new concepts while reinforcing previously learned material, creating a strong foundation in programming, debugging, and problem solving.
 
+Although these projects are relatively small in scope, they represent the core skills that prepared me to tackle larger software engineering, automation, and AI projects.
 
-**### Hangman**
+---
 
+## What's Next
 
+With these fundamentals established, this portfolio will continue to grow with projects involving:
 
-**A command-line version of the familiar hangman game.**
-
-
-
-**\*\*Concepts Covered:\*\* List manipulation, loops, conditional statements, string methods, game state tracking.**
-
-
-
-**---**
-
-
-
-**### Caesar Cipher**
-
-
-
-**Allows for the encryption and decryption of messages using a customizable shift amount.**
-
-
-
-**\*\*Concepts Covered:\*\* String processing, loops, modular arithmetic, user input management.**
-
-
-
-**---**
-
-
-
-**### Secret Auction**
-
-
-
-**Simulates a secret bidding process for multiple participants.**
-
-
-
-**\*\*Concepts Covered:\*\* Dictionaries, loops, comparative programming, data storage.**
-
-
-
-**---**
-
-
-
-**### Blackjack**
-
-
-
-**A pared-down version of the classic casino game, played against the computer.**
-
-
-
-**\*\*Concepts Covered:\*\* Functions, lists, game logic, conditional decisions.**
-
-
-
-**---**
-
-
-
-**### Higher or Lower**
-
-
-
-**Participants guess which of two selected social media accounts has a larger follower count.**
-
-
-
-**\*\*Concepts Covered:\*\* Dictionaries, random selection, loops, scorekeeping, user input validation.**
-
-
-
-**---**
-
-
-
-**### Coffee Machine**
-
-
-
-**A simulation of a cash-register coffee machine, handling inventory, sales, and customer orders.**
-
-
-
-**\*\*Concepts Covered:\*\* Functions, dictionaries, state management, resource tracking, transaction processing.**
-
-
-
-**---**
-
-
-
-**## Learning Journey**
-
-
-
-**These projects trace my journey from learning basic Python syntax to assembling complete command-line applications.**
-
-
-
-**Each project introduced new programming concepts and strengthened previously acquired skills.**
-
-
-
-**While the individual projects are comparatively modest, they were instrumental in building the programming foundation required for more sophisticated software development.**
-
-
-
-**These projects were intentionally focused on reinforcing programming fundamentals and problem-solving skills before moving on to Object-Oriented Programming and larger software projects.**
-
-
-
-**---**
-
-
-
-**## What's Next**
-
-
-
-**With this foundation firmly in place, I am now moving on to:**
-
-
-
-**- Object-Oriented Programming (OOP), Graphical User Interfaces (GUI)**
-
-AND
-
-**- AI and Machine Learning Projects**
-
+- GUI applications
+- Software engineering projects
+- Automation tools
+- AI and Machine Learning
