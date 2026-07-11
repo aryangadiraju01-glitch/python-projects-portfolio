@@ -1,58 +1,111 @@
-\# Advanced Python Projects
+# Advanced Python Projects
 
+A collection of larger Python projects that build upon the fundamentals of the language and focus on creating practical, real-world applications.
 
+These projects emphasize software design, object-oriented programming, automation, external libraries, file handling, and problem-solving. Each project is intended to demonstrate a different area of Python while progressively developing more advanced programming skills.
 
-\## Overview
+---
 
+## Table of Contents
 
+* [Overview](#overview)
+* [Projects](#projects)
+* [Skills Demonstrated](#skills-demonstrated)
+* [Future Projects](#future-projects)
 
-This directory contains larger Python projects that build upon the fundamentals of Python programming. These projects focus on solving practical problems, working with external libraries, object-oriented programming, automation, and real-world application development.
+---
 
+## Overview
 
+Unlike the projects found in the **Python Fundamentals** section, these applications are larger in scope and require combining multiple programming concepts into complete, functional programs.
 
-Each project is designed to demonstrate a different aspect of Python while progressively developing more advanced programming skills.
+Many of these projects involve:
 
+* Object-Oriented Programming (OOP)
+* Third-party Python libraries
+* Automation
+* Data processing
+* Graphical User Interfaces (GUI)
+* File handling
+* Game development
+* Software design principles
+* Real-world problem solving
 
+Each project includes its own dedicated README explaining the project's purpose, implementation, and the concepts used throughout the code.
 
-\---
+---
 
+## Projects
 
+### Python Excel Automation Tool
 
-\## Current Projects
+An automation program built with **Python** and **openpyxl** that processes Excel workbooks by applying user-defined discounts, generating updated pricing data, and creating charts automatically.
 
+**Highlights**
 
+* Reads and modifies Excel workbooks
+* Applies configurable percentage discounts
+* Creates a new workbook while preserving the original
+* Generates bar charts automatically
+* Validates user input
+* Demonstrates practical business automation using Python
 
-\### Python Excel Automation Tool
+---
 
+### Pygame Snake Game
 
+A classic Snake game built using **Python** and **Pygame** to practice object-oriented programming and game development fundamentals.
 
-A Python application that automates Excel workbook processing by applying user-defined discounts, generating updated pricing data, and creating charts using the `openpyxl` library.
+**Highlights**
 
+* Object-oriented architecture
+* Keyboard input handling
+* Collision detection
+* Score tracking
+* Grid-based movement
+* Timed game updates
+* Random fruit generation
+* Game loop implementation
 
+---
 
-\*\*Skills demonstrated\*\*
+## Skills Demonstrated
 
+Across the projects in this directory, the following concepts are explored:
 
+* Object-Oriented Programming (OOP)
+* Python modules and packages
+* File handling
+* Exception handling
+* User input validation
+* Automation
+* Third-party libraries
+* Data processing
+* Game development
+* Event-driven programming
+* Software organization
+* Problem solving
+* Code documentation
+* Git and GitHub version control
 
-\* Python automation
+---
 
-\* File handling
+## Future Projects
 
-\* User input validation
+This collection will continue to expand as I learn more advanced areas of Python and software engineering.
 
-\* Excel workbook processing
+Planned additions include projects involving:
 
-\* Data manipulation
+* NumPy
+* Pandas
+* Data visualization
+* APIs
+* Web scraping
+* Machine learning
+* Artificial intelligence
+* Database integration
+* Networking
+* Multithreading
+* Larger automation tools
 
-\* Third-party library usage (`openpyxl`)
-
-
-
-\---
-
-
-
-Additional advanced Python projects will be added as this portfolio continues to grow.
-
-
-
+Each new project will include detailed documentation describing its design, implementation, and the programming concepts demonstrated.
