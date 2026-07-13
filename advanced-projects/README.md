@@ -52,7 +52,7 @@ An automation program built with **Python** and **openpyxl** that processes Exce
 
 ---
 
-### Pygame Snake Game
+### Python Snake Game
 
 A classic Snake game built using **Python** and **Pygame** to practice object-oriented programming and game development fundamentals.
 
@@ -66,6 +66,23 @@ A classic Snake game built using **Python** and **Pygame** to practice object-or
 * Timed game updates
 * Random fruit generation
 * Game loop implementation
+
+---
+
+### Python Pong Game
+
+A two-player Pong game built using Python's built-in **turtle** graphics library to strengthen object-oriented programming concepts and game development fundamentals.
+
+**Highlights**
+
+* Object-oriented architecture
+* Two-player keyboard controls
+* Paddle and wall collision detection
+* Dynamic ball movement and speed increase
+* Real-time score tracking
+* Event-driven programming with keyboard listeners
+* Game loop implementation
+* GUI development using Turtle graphics
 
 ---
 
